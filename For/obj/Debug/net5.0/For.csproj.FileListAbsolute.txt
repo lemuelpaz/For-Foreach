@@ -1,0 +1,16 @@
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.exe
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.deps.json
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.runtimeconfig.json
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.runtimeconfig.dev.json
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.dll
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\ref\For.dll
+C:\Users\lemuel.lima\source\repos\For\For\bin\Debug\net5.0\For.pdb
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.csproj.AssemblyReference.cache
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.AssemblyInfoInputs.cache
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.AssemblyInfo.cs
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.csproj.CoreCompileInputs.cache
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.dll
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\ref\For.dll
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.pdb
+C:\Users\lemuel.lima\source\repos\For\For\obj\Debug\net5.0\For.genruntimeconfig.cache
