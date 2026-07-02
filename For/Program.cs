@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace For
 {
@@ -8,7 +8,7 @@ namespace For
         {
             for (int i = 0; i < 5; i++)
             {
-                //Console.WriteLine(i);
+                Console.WriteLine(i);
             }
 
             string[] valores = { "Vinte", "Trinta", "Quarenta" };
