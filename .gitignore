@@ -1,0 +1,35 @@
+# Artefatos de build .NET
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Diretórios do Visual Studio
+.vs/
+
+# Configurações de usuário do Rider
+.idea/
+
+# Arquivos de pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+
+# Cobertura de testes
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Logs
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
