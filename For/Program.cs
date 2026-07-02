@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace For
 {
@@ -6,17 +6,12 @@ namespace For
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 5; i++)
-            {
-                //Console.WriteLine(i);
-            }
+            var iteracao = new Iteracao();
+
+            iteracao.ExecutarForSimples(5);
 
             string[] valores = { "Vinte", "Trinta", "Quarenta" };
-
-            foreach (string y in valores)
-            {
-                Console.WriteLine(y);
-            }
+            iteracao.ExecutarForeachStrings(valores);
         }
     }
 }
